@@ -1,0 +1,135 @@
+*,
+body {
+    box-sizing: border-box;
+    
+}
+
+/* Exersice 01 */
+
+.common-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 12px 0;
+    font-family:'Jetbrains Mono','Arial';
+}
+
+
+.uber-button {
+    padding: 10px 25px;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    opacity: .9;
+}
+
+.amazon-button {
+    font-size: 20px;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgb(255,216,40);
+}
+
+.github-button{
+    font-size: 14px;
+    padding: 5px 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgb(46,164,79);
+    border: 1px solid #f0f6fc1a;
+    font-weight: 500;
+    line-height: 20px;
+    vertical-align: middle;
+    color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(110, 110, 110, 0.2), 0 6px 20px 0 rgba(88, 88, 88, 0.19);
+}
+
+.boostatrap-button-01 {
+    padding: 16px 35px;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+    background-color: rgb(121,82,179);
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.boostatrap-button-02 {
+    margin-left: 10px;
+    padding: 16px 35px;
+    cursor: pointer;
+    border-style: none;
+    color:  rgb(255, 255, 255);
+    background-color: #5e5e5e;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.linkedin-button-01 {
+    padding: 16px 35px;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+    background-color: rgb(10,102,194);
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.linkedin-button-02 {
+    margin-left: 10px;
+    padding: 16px 35px;
+    cursor: pointer;
+    border-style: none;
+    color:  rgb(10,102,194);
+    background-color: #ffffff;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid  rgb(10,102,194);
+    font-weight: bold;
+}
+
+
+/* Exersice 02 */
+.previous {
+    font-size: 30px;
+}
+
+.previous a {
+    color:rgb(0, 113, 133)
+}
+
+.previous p:nth-child(2){
+    font-size: 65px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.availability-text {
+    margin-top: 10px;
+    color: rgb(0,118,0);
+}
+
+.button {
+    font-size: 20px;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.first-button {
+    background-color: rgb(255,216,40);
+}
+
+.second-button {
+    background-color: rgb(255,164,28);
+    margin-left: 20px;
+}
