@@ -52,3 +52,21 @@ div > a:nth-child(6) {
     margin-left: 3px;
     box-shadow: none;
 }
+
+.common-button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    background-color: green;
+}
+
+.common-button:hover{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
