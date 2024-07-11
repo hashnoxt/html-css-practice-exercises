@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+.ex-5a {
+    font-family: "Lexend", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ex-5b  {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ex-5b-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ex-5b-info {
+    font-size: 20px;
+    color: red;
+    font-style: italic;
+}
+
+.ex-5c {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.ex-5c-title {
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.ex-5c-info {
+    font-size: 20px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.ex-5c-details {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.ex-5d {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.ex-5d-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ex-5d-info {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ex-5d-link a{
+    text-decoration: none;
+    color: rgb(17, 140, 255);
+}
+
+.ex-06 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.ex-06-highlight {
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ex-06-item {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.ex-06-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.ex-06-price{
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.ex-06-button {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding: 7px 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 50px;
+    margin-top: 10px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.ex-07 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.ex-07-title {
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+.ex-07-title span {
+    font-size: 16px;
+    color: gray;
+}
+
+.ex-07-info {
+    margin-top: 5px;
+    color: green;
+}
+
+.ex-07-details {
+    margin-top: 5px;
+    color: gray;
+}
+
+.ex-07-details span {
+    color: red;
+}
+
+.ex-08 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.ex-08-title {
+    font-weight: bold;
+}
+
+.ex-08-title span{
+    font-weight:500;
+    color: gray;
+}
+
+.ex-08-details span{
+    color: rgb(17, 140, 255)
+}
