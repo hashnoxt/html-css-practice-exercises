@@ -1,0 +1,23 @@
+
+.image-styles-01 {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.image-styles-02 {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: center;
+    border: 2px solid black;
+}
+
+.image-styles-03 {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: center;
+    border: 2px solid black;
+    border-radius: 100px;
+}
