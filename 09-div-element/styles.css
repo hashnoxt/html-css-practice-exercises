@@ -22,3 +22,90 @@
     font-size: 18px;
     color: rgb(138, 138, 138);
 }
+
+.ex-03 {
+    width: 600px;
+    padding: 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px 20px;
+    border-radius: 8px;
+}
+
+.ex-03-image {
+    width: 60px;
+    border: 1px solid black;
+    object-fit: contain;
+    border-radius: 30px;
+    vertical-align:middle;
+}
+
+.ex-03-search{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    vertical-align: middle;
+    border: none;
+}
+
+.ex-03-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: rgb(53, 142, 245);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-left: 60px;
+}
+
+.ex-04 {
+    width: 200px;
+    height:310px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border:none;
+}
+
+.ex-04-image {
+    width: 200px;
+    object-fit: contain;
+    background-color: gray;
+}
+
+.ex-04-title {
+    display: block;
+    margin: 0;
+    margin: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ex-04-count {
+    display: block;
+    margin: 0;
+    margin: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(95, 94, 94);
+}
+
+.ex-04-button {
+    cursor: pointer;
+    margin: 0 10px;
+    padding: 8px 12px;
+    background-color: rgb(31, 128, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.ex-05 {
+    display: inline-block;
+    width: 200px;
+    height:310px;
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border:none;
+}
