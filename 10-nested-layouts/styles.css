@@ -1,0 +1,78 @@
+
+.ex-10-01-container {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.ex-10-01-image {
+    width : 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+
+.ex-10-01-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ex-10-01-text-container > p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10px;
+    line-height: 18px;
+}
+
+.ex-10-01-title {
+    font-weight: bold;
+}
+
+.ex-10-01-details {
+    color: gray;
+}
+
+/* 02 */
+
+.ex-10-02-container {
+    width: 300px;
+    border: 1px solid black;
+}
+
+.ex-10-02-image {
+    width : 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+
+.ex-10-02-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ex-10-02-text-container > p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10px;
+    line-height: 18px;
+}
+
+.ex-10-02-title {
+    font-weight: bold;
+}
+
+.ex-10-02-details {
+    color: gray;
+}
+
+.ex-10-02-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 165, 248);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    cursor: pointer;
+}
