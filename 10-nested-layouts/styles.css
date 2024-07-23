@@ -1,0 +1,159 @@
+
+.ex-10-01-container {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.ex-10-01-image {
+    width : 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+
+.ex-10-01-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ex-10-01-text-container > p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10px;
+    line-height: 18px;
+}
+
+.ex-10-01-title {
+    font-weight: bold;
+}
+
+.ex-10-01-details {
+    color: gray;
+}
+
+/* 02 */
+
+.ex-10-02-container {
+    width: 300px;
+    border: 1px solid black;
+}
+
+.ex-10-02-image {
+    width : 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+
+.ex-10-02-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ex-10-02-text-container > p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10px;
+    line-height: 18px;
+}
+
+.ex-10-02-title {
+    font-weight: bold;
+}
+
+.ex-10-02-details {
+    color: gray;
+}
+
+.ex-10-02-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 165, 248);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+/* 03 */
+
+.ex-10-03-container {
+    width: 300px;
+    /* border: 1px solid black; */
+    margin: 10px 10px;
+}
+
+.ex-10-03-image {
+    width : 50px;
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    vertical-align: middle;
+}
+
+.ex-10-03-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ex-10-03-text-container > p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-left: 10px;
+    line-height: 18px;
+}
+
+.ex-10-03-title {
+    font-weight: bold;
+}
+
+.ex-10-03-details {
+    color: gray;
+}
+
+.ex-10-03-button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 165, 248);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+/* 04 */
+
+.ex-10-04-container {
+    margin: 15px;
+}
+
+.ex-10-04-image {
+    width: 400px;
+    vertical-align: top;
+   
+}
+
+.ex-10-04-text-container {
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+
+.ex-10-04-title {
+    margin: 0;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.ex-10-04-details {
+    font-size: 24px;
+    color: rgb(114, 114, 114);
+    margin: 0;
+    line-height: 40px;
+}
