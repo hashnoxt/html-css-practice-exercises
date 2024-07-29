@@ -1,0 +1,65 @@
+/* 1 */
+
+.ex-12-01 {
+    display: flex;
+    flex-direction: row;
+}
+
+.ex-12-01-01 {
+    background-color: rgb(60, 164, 250);
+    width: 200px;
+}
+
+.ex-12-01-02 {
+    background-color: rgb(252, 112, 112);
+    width: 75px;
+}
+
+/* 2 */
+
+.ex-12-02 {
+    display: flex;
+    flex-direction: row;
+}
+
+.ex-12-02-01 {
+    background-color: rgb(60, 164, 250);
+    width: 50px;
+}
+
+.ex-12-02-02 {
+    background-color: rgb(252, 112, 112);
+    flex: 1;
+}
+
+.ex-12-02-03 {
+    background-color: rgb(60, 164, 250);
+    width: 75px;
+}
+
+/* 3 */
+
+.ex-12-03 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ex-12-03-div {
+    background-color: rgb(255, 124, 124);
+}
+
+/* 4 */
+
+.ex-12-04 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    border: 1px solid gray;
+}
+
+.ex-12-04-div {
+    background-color: rgb(255, 124, 124);
+}
